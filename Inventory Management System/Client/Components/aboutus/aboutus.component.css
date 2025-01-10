@@ -1,0 +1,30 @@
+.about-us-container {
+    background-color: #f9f9f9;
+    padding: 40px;
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-us-content {
+    text-align: center;
+  }
+  
+  .about-us-content h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .about-us-content p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #666;
+    margin-bottom: 15px;
+  }
+  
+  .about-us-content p:last-child {
+    margin-bottom: 0;
+  }
+  
